@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="muit.fs.junio22.FirstDayAtSchoolTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-01T09:27:09" hostname="DESKTOP-GEHMBDR" time="0.024">
+  <properties/>
+  <testcase name="testAddElements()" classname="muit.fs.junio22.FirstDayAtSchoolTest" time="0.017"/>
+  <testcase name="testPrepareMyBag()" classname="muit.fs.junio22.FirstDayAtSchoolTest" time="0.001"/>
+  <testcase name="testCleanBag()" classname="muit.fs.junio22.FirstDayAtSchoolTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="muit.fs.junio22.FirstDayAtSchoolTest" time="0.002"/>
+  <system-out><![CDATA[Inside testAddElements()
+Inside testPrepareMyBag()
+Inside testCleanBag()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
