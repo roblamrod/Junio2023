@@ -1,4 +1,4 @@
-package muit.fs.junio22;
+package us.FirstDayAtSchool;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
