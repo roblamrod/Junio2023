@@ -22,7 +22,7 @@ jobs:
       - name: Construyendo y probando el código
         run: |
           chmod +x gradlew        
-          ./gradlew assemble
+          ./gradlew jar
           echo "roblamrod"
   Test:
     runs-on: ubuntu-latest
